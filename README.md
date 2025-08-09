@@ -1,4 +1,3 @@
-<!-- Banner với chữ đè lên -->
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Tech Banner">
   <defs>
@@ -61,6 +60,7 @@
     <animate attributeName="r" values="4;8;4" dur="6s" repeatCount="indefinite" />
   </circle>
 </svg>
+
 
 <p align="center">
   <h1>Hi 👋, I'm Nguyễn Mạnh Cường</h1>
