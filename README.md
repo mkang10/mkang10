@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/z8nPjcL/github-banner.png" alt="Nguyễn Mạnh Cường - Full-Stack Developer" width="100%">
+  <img src="https://i.ibb.co/z8nPjcL/github-banner.png" alt="Mason Kang - Full-Stack Developer" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Nguyễn Mạnh Cường</h1>
+<h1 align="center">Hi 👋, I'm Mason Kang</h1>
 <h3 align="center">🚀 Full-Stack Developer | Distributed Systems | DevOps Enthusiast</h3>
 
 ---
@@ -40,33 +40,11 @@
 
 ---
 
-## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🏪 E-Commerce Platform** | Full-stack online store with product management, cart, and payment gateway. | Next.js, NestJS, MySQL, Docker |
-| **📦 Inventory Management System** | Manage inventory, transfers, and warehouse stock with real-time updates. | ASP.NET Core, ReactJS, MS SQL Server |
-| **🧾 Invoice Automation Tool** | Generate invoices and track payments automatically. | NodeJS, TypeScript, Azure Functions |
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=github_dark" alt="Profile Summary"/>
-</p>
-
----
 
 ## 📫 Contact Me
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+📧 Email: masonkang1212@gmail.com(mailto:masonkang1212@gmail.com)  
+🌐 Portfolio: https://masonkang.io.vn/(https://your-portfolio.com](https://masonkang.io.vn/)
 
 ---
 
