@@ -46,11 +46,9 @@
 
 
 ## 📫 Contact Me
-📧 Email: masonkang1212@gmail.com(mailto:masonkang1212@gmail.com)  
-🌐 Portfolio: https://masonkang.io.vn/(https://your-portfolio.com](https://masonkang.io.vn/)
+📧 Email: masonkang1212@gmail.com
+🌐 Portfolio: https://masonkang.io.vn
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+
