@@ -1,9 +1,12 @@
-<!-- Banner -->
-<img src="https://res.cloudinary.com/dvbbfcxdz/image/upload/BCO.eb04bcba-ad27-49a8-b797-9c35c0a61539_z0yjfv.png" alt="Mason Kang - Full-Stack Developer" width="100%">
+<!-- Banner với chữ đè lên -->
+<p align="center">
+  <img src="https://res.cloudinary.com/dvbbfcxdz/image/upload/BCO.eb04bcba-ad27-49a8-b797-9c35c0a61539_z0yjfv.png" alt="Nguyễn Mạnh Cường - Full-Stack Developer" width="60%">
+</p>
 
-
-<h1 align="center">Hi 👋, I'm Mason Kang</h1>
-<h3 align="center">🚀 Full-Stack Developer | Distributed Systems | DevOps Enthusiast</h3>
+<p align="center">
+  <h1>Hi 👋, I'm Nguyễn Mạnh Cường</h1>
+  <h3>🚀 Full-Stack Developer | Distributed Systems | DevOps Enthusiast</h3>
+</p>
 
 ---
 
