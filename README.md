@@ -1,7 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/z8nPjcL/github-banner.png" alt="Mason Kang - Full-Stack Developer" width="100%">
-</p>
+<img src="https://res.cloudinary.com/dvbbfcxdz/image/upload/BCO.eb04bcba-ad27-49a8-b797-9c35c0a61539_z0yjfv.png" alt="Mason Kang - Full-Stack Developer" width="100%">
+
 
 <h1 align="center">Hi 👋, I'm Mason Kang</h1>
 <h3 align="center">🚀 Full-Stack Developer | Distributed Systems | DevOps Enthusiast</h3>
