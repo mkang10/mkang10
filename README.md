@@ -1,12 +1,5 @@
 
 
-<p align="center">
-  <h1>Hi 👋, I'm Mason Kang</h1>
-<h3 class="shimmer">
-  🚀 Full-Stack Developer | Distributed Systems | DevOps Enthusiast
-</h3></p>
-
-
 <style>
 .shimmer{
   font-family: "Segoe UI", system-ui, sans-serif;
@@ -25,6 +18,13 @@
   100%{ background-position: -200% 0; }
 }
 </style>
+<p align="center">
+  <h1>Hi 👋, I'm Mason Kang</h1>
+<h3 class="shimmer">
+  🚀 Full-Stack Developer | Distributed Systems | DevOps Enthusiast
+</h3></p>
+
+
 
 ---
 
