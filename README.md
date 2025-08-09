@@ -1,27 +1,10 @@
 
 
-<style>
-.shimmer{
-  font-family: "Segoe UI", system-ui, sans-serif;
-  font-weight:700;
-  font-size:1.1rem;
-  background: linear-gradient(90deg,#9be7ff 10%, #00b3ff 45%, #c087ff 70%, #9be7ff 100%);
-  background-size: 200% 100%;
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  animation: shimmer 3.2s linear infinite;
-  display: inline-block;
-}
-@keyframes shimmer{
-  0%{ background-position: 200% 0; }
-  100%{ background-position: -200% 0; }
-}
 </style>
 <p align="center">
   <h1>Hi 👋, I'm Mason Kang</h1>
-<h3 class="shimmer">
-  🚀 Full-Stack Developer | Distributed Systems | DevOps Enthusiast
+<h3>
+   Full-Stack Developer | Distributed Systems | DevOps Enthusiast
 </h3></p>
 
 
